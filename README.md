@@ -67,7 +67,7 @@ As your score increases, the game gets harder:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/TurboSnake.git
+git clone https://github.com/Ewwftyy/TurboSnake.git
 cd TurboSnake
 python main.py
 
